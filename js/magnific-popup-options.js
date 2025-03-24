@@ -1,0 +1,1 @@
+$(document).ready(function(){var magnifPopup=function(){$('.popup-youtube').magnificPopup({type:'iframe',mainClass:'mfp-fade',removalDelay:160,preloader:!1,fixedContentPos:!1,})};magnifPopup()})
